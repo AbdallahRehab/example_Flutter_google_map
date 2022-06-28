@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- TODO 1.2 - Update Google Map Address (optional) 🧩 -->
+    <string name="api_key">AIzaSyBElkDmMxsjolcZgbTdEprJOtoq8Oj1RPE</string>
+
+</resources>
